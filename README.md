@@ -1,10 +1,12 @@
 Mesh-Mapping-Tool
 =================
-WIP
+_For Projection mapping with 3d mesh.
+_Import syphon image as video image.
+_Adjust mesh in the tool.
 
-for Projection mapping by 3d mesh.
+Need ::
+OpenFrameworks 0.8.4
+ofxGLWarper
 
-openframeworks 0.8.4
-
-To Do
+To Do ::
 add GUI and Multi window
