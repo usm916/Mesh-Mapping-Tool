@@ -1,8 +1,8 @@
 Mesh-Mapping-Tool
 =================
-_For Projection mapping with 3d mesh.
-_Import syphon image as video image.
-_Adjust mesh in the tool.
+_For Projection mapping with 3d mesh.\n
+_Import syphon image as video image.\n
+_Adjust mesh in the tool.\n
 
 Need ::
 OpenFrameworks 0.8.4
