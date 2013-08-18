@@ -14,4 +14,4 @@ OSX10.8
 To Do ::
 add GUI and Multi window
 
-![ScreenShot](screenshot.png)
+![ScreenShot](screenshot.jpg)
