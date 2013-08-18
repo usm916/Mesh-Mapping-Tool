@@ -14,4 +14,4 @@ OSX10.8
 To Do ::
 add GUI and Multi window
 
-![ScreenShot](mwbps.png)
+![ScreenShot](screenshot.png)
