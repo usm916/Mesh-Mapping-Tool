@@ -7,7 +7,7 @@ _Able to adjust a mesh in the tool;
 _haven't have GUI yet;
 
 Need ::
-OpenFrameworks 0.8.4
+OpenFrameworks 0.7.4
 ofxGLWarper
 OSX10.8
 
